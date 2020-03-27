@@ -1,0 +1,48 @@
+.img_Box{
+  display: inline-block;
+  width: 1092px;
+  margin-left: 398px;
+  background-color: white;
+}
+
+.img1{
+  display: inline-block;
+  width: 600px;
+  height: 300px;
+}
+
+.img2{
+  display: inline-block;
+  width: 492px;
+  height: 300px;
+}
+
+.img3{
+  display: inline-block;
+  width: 364px;
+  height: 300px;
+}
+
+.img4{
+  display: inline-block;
+  width: 364px;
+  height: 300px;
+}
+
+.img5{
+  display: inline-block;
+  width: 364px;
+  height: 300px;
+}
+
+.img_Banner{
+  display: inline-block;
+  width: 546px;
+  height: 300px;
+}
+
+.img_Banner2{
+  display: inline-block;
+  width: 546px;
+  height: 300px;
+}

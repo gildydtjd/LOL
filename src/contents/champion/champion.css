@@ -1,0 +1,13 @@
+
+
+.champion_box{
+  display: inline-block;
+  margin: 4px 1px;
+  border: 2px solid #c9c9c9;
+  background-color: white;
+}
+
+.champion_image{
+  width: 102px;
+  height: 100px;
+}

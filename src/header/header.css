@@ -1,0 +1,13 @@
+.Header {
+    display: block;
+    float: none;
+    width: 100%;
+  }
+
+  .lolBody {
+    display: block;
+    float: none;
+    width: 1092px;
+    margin: 0 auto;
+    text-align: left;
+}
